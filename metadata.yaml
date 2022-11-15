@@ -1,0 +1,30 @@
+_repo: Life-and-literature-in-the-Roman-republic_69272
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frank, Tenney
+    alias: Frank, Tenny
+    birthdate: 1876
+    deathdate: 1939
+    gutenberg_agent_id: '3769'
+    url: http://www.gutenberg.org/2009/agents/3769
+    wikipedia: https://en.wikipedia.org/wiki/Tenney_Frank
+description: ''
+gutenberg_issued: '2022-10-30'
+identifiers:
+  gutenberg: '69272'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015066704159
+pgterms:marc905: 20201109044513frank
+pgterms:marc906: '1930'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: 'United States: University of California Press,1930,reprint 1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Life and literature in the Roman republic
+url: http://www.gutenberg.org/ebooks/69272
