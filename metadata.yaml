@@ -1,5 +1,8 @@
 _repo: Life-and-literature-in-the-Roman-republic_69272
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69272-h/images/cover.jpg
 creator:
   author:
     agent_name: Frank, Tenney
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3769
     wikipedia: https://en.wikipedia.org/wiki/Tenney_Frank
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69272#Life-and-literature-in-the-Roman-republic
 gutenberg_issued: '2022-10-30'
 identifiers:
   gutenberg: '69272'
